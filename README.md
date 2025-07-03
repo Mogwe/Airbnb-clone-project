@@ -86,6 +86,25 @@ In a full-stack team environment, each member plays a unique role to ensure the 
 
 *Each role contributes significantly to the team’s overall success by ensuring that the application is functional, user-friendly, visually appealing, scalable, and delivered on time.*
 
+## UI Component Patterns
+The primary components planned for the Airbnb Clone project:
+
+**Navbar**
+- Displays the logo, search bar, navigation links, and user menu.
+- Responsive design for mobile, tablet, and desktop.
+- Will include icons for user profile, favorites, and bookings.
+
+  **Property Card**
+- Contains property image, title, location, price per night, and rating.
+- Can be used on the home page or search results page.
+- Includes a favorite/like button.
+- Designed with responsiveness in mind for grid layouts.
+
+  **Footer**
+- Displays site navigation links (e.g., About, Help, Terms).
+- Includes company information, social media icons, and copyright.
+- Sticky layout on longer pages, optimized for mobile and desktop views.
+
  
 
 
