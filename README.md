@@ -71,6 +71,21 @@ Understanding and documenting design properties like color styles and typography
 - Encourages collaboration across designers and developers using shared visual language.
 - Makes it easier to implement design systems and reuse components efficiently.
 
+  ## Project Roles and Responsibilities
+In a full-stack team environment, each member plays a unique role to ensure the success of the project. Below is a breakdown of the key roles and their core responsibilities:
+
+**Roles**
+- *Project Manager* -	Oversees project timelines and deliverables, ensures communication among team members, tracks milestones, and keeps the project on schedule.
+- *Frontend Developers* -	Build and style user interfaces using HTML, CSS, and JavaScript (React). Implement responsive designs and connect frontend components with backend APIs.
+- *Backend Developers* -	Design and implement the server, APIs, and database. Handle authentication, business logic, and secure data handling. Ensure the backend supports frontend requirements.
+- *Designers* -	Create Figma mockups, design UI components, maintain visual consistency, and ensure accessibility and good UX principles are applied.
+- *QA/Testers* -	Develop and execute test plans, write unit and integration tests, report bugs, and verify that features work as intended before deployment.
+- *DevOps Engineers* -	Manage deployment pipelines, set up CI/CD processes, monitor app performance, and ensure infrastructure is secure and scalable.
+- *Product Owner* -	Defines the product vision, prioritizes features based on user needs, acts as the bridge between stakeholders and developers, and ensures user value is delivered.
+- *Scrum Master* -	Facilitates agile ceremonies (stand-ups, sprints, retros), removes team blockers, and ensures the team adheres to Agile principles and workflow.
+
+*Each role contributes significantly to the team’s overall success by ensuring that the application is functional, user-friendly, visually appealing, scalable, and delivered on time.*
+
  
 
 
