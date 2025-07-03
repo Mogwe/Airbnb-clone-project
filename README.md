@@ -43,6 +43,36 @@ This project is a simplified clone of the Airbnb platform. It aims to recreate c
 **Importance of User-Friendly Design**
 - A well-crafted booking system enhances user experience by minimizing friction in the customer journey. Clear navigation, intuitive interfaces, and responsive design not only boost conversion rates but also improve customer satisfaction and trust. In competitive platforms like Airbnb, user-friendly design is essential to keep users engaged and reduce drop-off.
 
+ ### Design Properties from Figma
+**Color Styles**
+- *Primary: #FF5A5F*
+- *Secondary: #008489*
+- *Background: #FFFFFF*
+- *Text (Primary): #222222*
+- *Text (Secondary): #717171*
+
+**Typography**
+- Font Family: Circular
+- Headings:
+- Weight: Bold (700)
+- Size: 24px to 32px
+- Primary Text:
+- Weight: Medium (500)
+- Size: 16px
+- Secondary Text:
+- Weight: Book (400)
+- Size: 14px
+
+**Importance of Identifying Design Properties in a Mockup**
+Understanding and documenting design properties like color styles and typography is crucial because:
+- It ensures visual consistency across the application.
+- Helps frontend developers translate designs accurately into code.
+- Supports responsive and accessible design planning.
+- Encourages collaboration across designers and developers using shared visual language.
+- Makes it easier to implement design systems and reuse components efficiently.
+
+ 
+
 
 
   ## Contributors
